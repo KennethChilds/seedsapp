@@ -1,7 +1,7 @@
 
   # Seeds App
 
-  This is a code bundle for Seeds App. The original project is available at https://www.figma.com/design/qw1heYjNNm67vxrKHOih6Q/Seeds-App.
+  This is a code bundle for Seeds App. The original project is available at https://fact-early-83622177.figma.site.
 
   ## Running the code
 
